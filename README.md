@@ -2,7 +2,7 @@
 
 # Gamified Learning Platform Smart Contract
 
-### Vision
+### Description
 The Gamified Learning Platform aims to revolutionize education by integrating blockchain technology with gamified learning. This platform empowers instructors to create courses with rewards for students who complete tasks, creating a competitive and engaging learning environment. With transparent and automated task approval, learners are incentivized through smart contract-based rewards.
 
 ### Flowchart
@@ -61,6 +61,9 @@ This Solidity-based smart contract includes functionalities for:
    ```bash
    npx hardhat run --network educhain scripts/deploy.js
    ```
+
+### Vision
+Our vision is to transform education by merging blockchain technology with gamified learning. We aim to create an engaging and rewarding environment where instructors can design courses that motivate students through transparent, automated rewards for their achievements. By combining fun with learning, we empower students to excel in a competitive and interactive setting.
 
 ### Future Scope
 - **Tokenized Rewards**: Introducing platform-native tokens as rewards for completed tasks.
